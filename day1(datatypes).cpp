@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomanip>//used for set precition
+#include <iomanip>//used for set precision
 #include <limits>
 
 using namespace std;
